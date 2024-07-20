@@ -7,3 +7,4 @@ while incorporating commercial cardboard body tubes as airframes.
 All designs have been test flown with hints and advice included in the documentaiton. 
 
 Another primary design objective is to build the model without glue to enable quick assembly. 
+![image](https://github.com/user-attachments/assets/45840be7-06ce-4e00-a596-92ec5753fa62)
