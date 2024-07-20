@@ -54,7 +54,7 @@ Six designs are available for a wide range of motor options:
     CONS: no tape? <br />
       NOTE: Uses rail buttons ????????<br />
 
-
+### A summary of approximate altitudes is show in the graph below. 
  
 
 
