@@ -7,7 +7,7 @@ Ez3D Rockets was started to develop models with:
 - Easy assembly (i.e. no glue required)
 - Reliable operation
 
-The results is a family of launch vechiles which operate with 1/2 to F motors and altitiudes over 1000 ft. <br/>
+The result is a family of launch vechiles which operate with 1/2 to F motors and altitiudes over 1000 ft. <br/>
 In addition, all the FreeCAD, .stl, OpenRocket, and RockSIM files are available to encourage your own experimention. 
 
 Since 3D printing a tall thin structures can be a challenging, Ez3D designs primarly use printed fin cans and nose cones
