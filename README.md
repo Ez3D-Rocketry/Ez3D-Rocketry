@@ -1,23 +1,19 @@
-# Welome to Ez3D Rocketry!
+Welcome to Ez3D Rocketry!
 
-## Want to get started in 3D printing enabled models rockets? <br />
+## Want to get started using 3D printing with models rockets? <br />
 
-Ez3D Rockets was started to develop models with:
+Ez3D Rockets created models with:
 - Low parts count
 - Easy assembly (i.e. no glue required)
 - Reliable operation
 
-The result is a family of launch vechiles which operate with 1/2 to F motors and altitiudes over 1000 ft. <br/>
-In addition, all the FreeCAD, .stl, OpenRocket, and RockSIM files are available to encourage your own experimention. 
+The result is a series of designs which operate with 1/2A to F motors and altitudes over 1000 ft. <br/>
+In addition, all the FreeCAD, .STL, OpenRocket, and RockSIM files are available to encourage your own experimentation. 
 
-Since 3D printing a tall thin structures can be a challenging, Ez3D designs primarly use printed fin cans and nose cones
+Since 3D printing a tall thin structures can be a challenging, Ez3D designs use printed fin cans and nose cones
 while incorporating commercial cardboard body tubes as airframes. 
 
-All designs have been test flown with tips and advice included in the documentaiton. 
-
-
-
-Six designs are available for a wide range of motor options:
+Six designs are available:
 
 1. Ez3D Mini Lite
    - Uses 13mm Estes mini motors and a BT-20 airframe
@@ -41,18 +37,12 @@ Six designs are available for a wide range of motor options:
 
 4. Ez3D Max
    - Uses 24mm C11 and D12 motors and a BT-55 airframe<br />
-  CONS: no tape? <br />
-      NOTE: Uses rail buttons ????????<br />
 
 5. Ez3D Max+
    - Uses 24mm E12 motor and a BT-60 airframe<br />
-    CONS: no tape? <br />
-      NOTE: Uses rail buttons ????????<br />
       
 6. Ez3D Super Max
    - Uses 29mm E16 and F15 motors and a BT-70 airframe<br />
-    CONS: no tape? <br />
-      NOTE: Uses rail buttons ????????<br />
 
 ### A summary of approximate altitudes is show in the graph below. 
  
