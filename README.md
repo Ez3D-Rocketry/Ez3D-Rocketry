@@ -2,13 +2,12 @@ Welcome to Ez3D Rocketry!
 
 ## Want to get started using 3D printing with models rockets? <br />
 
-Ez3D Rockets created models with:
+Ez3D Rockets has a series of designs which operate with 1/2A (13mm) to 29mm motors with:
 - Low parts count
 - Easy assembly (i.e. no glue required)
 - Reliable operation
 
-The result is a series of designs which operate with 1/2A to F motors and altitudes over 1000 ft. <br/>
-In addition, all the FreeCAD, .STL, OpenRocket, and RockSIM files are available to encourage your own experimentation. 
+In addition, the FreeCAD, .STL, and simulation files are available to encourage your own experimentation. 
 
 Since 3D printing a tall thin structures can be a challenging, Ez3D designs use printed fin cans and nose cones
 while incorporating commercial cardboard body tubes as airframes. 
@@ -17,7 +16,7 @@ Six designs are available:
 
 1. Ez3D Mini Lite
    - Uses 13mm Estes mini motors and a BT-20 airframe
-   - PRO: Flies OK on 1/2 motors (~150+ ft)
+   - PRO: Flies OK on 1/2A motors (~150+ ft)
    - CON: Small body tube can make loading recovery gear difficult.
      
 2. Ez3D Lite
@@ -36,13 +35,13 @@ Six designs are available:
 
 
 4. Ez3D Max
-   - Uses 24mm C11 and D12 motors and a BT-55 airframe<br />
+   - Sized for 24mm C11 and D12 motors and a BT-55 airframe<br />
 
 5. Ez3D Max+
-   - Uses 24mm E12 motor and a BT-60 airframe<br />
+   - Sized for 24mm E12 motor and a BT-60 airframe<br />
       
 6. Ez3D Super Max
-   - Uses 29mm E16 and F15 motors and a BT-70 airframe<br />
+   - Sized for 29mm E16 and F15 motors and a BT-70 airframe<br />
 
 ### A summary of approximate altitudes is show in the graph below. 
  
